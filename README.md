@@ -9,7 +9,3 @@ The datasets consists of several medical predictor variables and one target vari
 
 Dataset Link- https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-# Our Contributers
-### **Ruchi Yadav** - github link - https://github.com/ruchi778
-
-### **Sanjan N** - github link - https://github.com/Sanjan15
